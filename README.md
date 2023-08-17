@@ -11,3 +11,5 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 #### 3 in another terminal run 'npx react-native run-android'
 
 
+#### Keystore generation command 'keytool -genkeypair -v -storetype PKCS12 -keystore devprac-key.keystore -alias devprac-alias -keyalg RSA -keysize 2048 -validity 10000 '
+
